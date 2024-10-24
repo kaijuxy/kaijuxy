@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Yaşar ISSI, a 2. year  student studying Computer Engineering at Niğde Ömer Halisdemir University.<br> I have knowledge in programming languages like C++, Java, and C#, and currently, I'm focusing on Flutter for mobile app development.<br><br>I enjoy working on mobile programming projects and have a particular interest in AR technology. <br>I love exploring its possibilities and creating interactive experiences.<br><br>Thank you for visiting my GitHub profile, and I look forward to learning and sharing with the developer community. <br>Happy coding!" 
+Hello! I'm Yaşar ISSI, a 4. year  student studying Computer Engineering at Niğde Ömer Halisdemir University.<br> I have knowledge in programming languages like C++, Java, and C#, and currently, I'm focusing on Flutter for mobile app development.<br><br>I enjoy working on mobile programming projects and have a particular interest in AR technology. <br>I love exploring its possibilities and creating interactive experiences.<br><br>Thank you for visiting my GitHub profile, and I look forward to learning and sharing with the developer community. <br>Happy coding!" 
 
 
 ## 🌐 Socials:
